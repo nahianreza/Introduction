@@ -1,3 +1,10 @@
+# AND101 Project 1 - Hello, Squirrel!
+
+Submitted by: Nahian Reza
+
+Time spent: 2 hours spent in total
+
+## Summary
 The following REQUIRED features are completed:
 
 - [x] Change profile name to your name
@@ -8,6 +15,7 @@ The following STRETCH features are implemented:
 
 - [x] Modify the profile image by uploading a new image drawable
 
+## Video Demo
 Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://i.imgur.com/9t4vBjI.gif' title='Video Demo' width='' alt='Video Demo' />
